@@ -1,0 +1,52 @@
+body{
+    background-color: lightblue;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+.underline{
+    text-decoration: underline;
+}
+.textCenter{
+    text-align: center;
+}
+
+.imageCenter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.border{
+    border: 5px solid black;
+}
+
+.thickerText{
+    font-weight: 500;
+    font-size: 20px;
+}
+
+table{
+    table-layout: fixed;
+    border-collapse: collapse;
+    border: 1px solid black;
+    width: 60%;
+}
+
+th {
+    font-size: 20px;
+}
+
+.largerText{
+    font-size: 17px;
+}
+th, td{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.padding{
+    padding: 5px;
+}
